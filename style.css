@@ -1,0 +1,200 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+
+.HeroContainer{
+    background-color: #1F2937;
+     margin-bottom: 50px;
+     padding-bottom: 100px;
+
+}
+
+.MenuTop{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 70px;
+    margin-left: 23px;
+}
+
+.Logo{
+    font-size: 24px;
+    color: #F9FAF8;
+    padding: 18px;
+    font-weight: 600;
+}
+
+.Links{
+    display: flex;
+    font-size: 18px;
+    color: #e5e7ebd2;
+    gap: 15px;
+}
+
+.MainContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.leftText{
+    width: 28%;
+    padding: 40px 40px 40px 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.MainText{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.SubText{
+    color: #f9faf8d5;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+button{
+    border: none;
+    background-color: #3882f6;
+    color: white;
+    padding: 10px 40px;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    
+}
+
+.ImageContainer{
+    background-color: rgba(153, 157, 170, 0.705);
+    font-size: 18px ;
+    color: #e5e7eb;
+    padding: 110px 125px;
+}
+
+.information{
+    text-align: center;
+    font-weight: 900;
+    font-family: #1f2937;
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+
+.BoxesContainer{
+    display: flex;
+    justify-content: center;
+    gap: 75px;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+}
+
+.box{
+    border: rgb(11, 113, 196) solid 4px;
+    padding: 80px 80px;
+    border-radius: 15px;
+}
+
+.TextsContainer{
+    display: flex;
+    justify-content: center;
+    gap: 50px; 
+    padding-bottom: 150px;
+}
+
+
+.text{
+    font-size: 18px;
+    width: 10%;
+    color: rgba(44, 44, 44, 0.815);
+    text-align: center;
+    }
+
+
+.quoteContent{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1f2937de;
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 90px 50px;
+    margin-bottom: 150px;
+}
+
+.Quote{
+    width: 45%;
+}
+
+.QuoteSayer{
+ 
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    color: #1F2937;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.ProductSignup{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 150px;
+ 
+}
+
+.Productcontainer{
+   background-color: rgba(0, 89, 255, 0.815);
+    padding: 60px 140px;
+    width: 60%;
+    display: flex;
+    color: white;
+    border-radius: 7px;
+    font-size: 18px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Maintext2{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+ 
+
+.button2{
+background-color: transparent;
+color: white;
+border: white solid 2px;
+padding: 5px 35px;
+border-radius: 8px;
+font-size: 18px;
+cursor: pointer;
+}
+
+.FooterContainer{
+    background-color: #1F2937;
+padding: 50px 0px;
+display: flex;
+justify-content: center;
+}
+
+.FooterText{
+    color: rgba(255, 255, 255, 0.808);
+    font-size: 20px;
+}
+
+
+ 
+
+ 
+
+ 
+ 
